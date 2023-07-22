@@ -1,11 +1,14 @@
-# react-validation-formik-yup
+# React form validation using Formik and Yup
 React validation using formik and yup. Simple sign up form example for reactjs form validation using formik and yup validator. 
 
-This is a simple "User sign up form" developed in bootstrap. 
-I have used "Formik" open source library for building and processing the form data in react application.
-I have used "Yup" schema builder for value parsing and validation.
+This is a simple "User sign up form" developed in bootstrap. <br/>
+I have used <b>"Formik" open source library</b> for building and processing the form data in react application.<br/>
+<b>"Yup" schema builder</b> is used for value parsing and validation.<br/><br/>
 
-## Demo - add new employee
+## Live app on stackblitz<br/>
+[https://stackblitz.com/edit/validation-react-form-yup-formik?file=src%2FApp.js](https://stackblitz.com/edit/validation-react-form-yup-formik?file=src%2FApp.js)
+
+## Demo - Sign up form validation in React<br/>
 ![React Validation Formik Yup](./validation/react-form-validtion.gif)
 
 # Kickstart
