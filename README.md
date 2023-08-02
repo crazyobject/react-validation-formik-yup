@@ -1,5 +1,4 @@
-# React form validation using Formik and Yup
-React validation using formik and yup. Simple sign up form example for reactjs form validation using formik and yup validator. 
+# React form validation using Formik and Yup JavaScript libraries. Simple sign up form example for reactjs form validation using formik and yup validator. 
 
 This is a simple "User sign up form" developed in bootstrap. <br/>
 I have used <b>"Formik" open source JavaScript library</b> for building and processing the form data in react application.<br/>
